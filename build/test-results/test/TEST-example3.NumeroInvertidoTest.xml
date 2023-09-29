@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="example3.NumeroInvertidoTest" tests="9" skipped="0" failures="0" errors="0" timestamp="2023-09-29T17:22:59" hostname="PRISET" time="0.148">
+  <properties/>
+  <testcase name="[1] -1, Valor Incorrecto" classname="example3.NumeroInvertidoTest" time="0.088"/>
+  <testcase name="[2] 0, 0" classname="example3.NumeroInvertidoTest" time="0.02"/>
+  <testcase name="[3] 1, 1" classname="example3.NumeroInvertidoTest" time="0.002"/>
+  <testcase name="[4] 8, 8" classname="example3.NumeroInvertidoTest" time="0.002"/>
+  <testcase name="[5] 80, 08" classname="example3.NumeroInvertidoTest" time="0.001"/>
+  <testcase name="[6] 123, 321" classname="example3.NumeroInvertidoTest" time="0.002"/>
+  <testcase name="[7] 100, 001" classname="example3.NumeroInvertidoTest" time="0.001"/>
+  <testcase name="[8] 999, 999" classname="example3.NumeroInvertidoTest" time="0.001"/>
+  <testcase name="[9] 1000, 0001" classname="example3.NumeroInvertidoTest" time="0.002"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
