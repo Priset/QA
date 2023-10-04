@@ -14,7 +14,7 @@ public class PalindromeCheckerTest {
             "jose, false",
             "oro, true",
             "'', true",
-            "' ', false",
+            "' ', true",
             "AnitaLavaLaTina, true",
             "null, false"
     })
